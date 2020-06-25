@@ -4,8 +4,10 @@ import Section2 from "./Section2";
 import Section3 from "./Section3";
 import Footer from "./Footer"
 
+import img from '../assets/img/logo-cd-p.png';
+
 export default class App extends React.Component{
-    
+
     render(){
         const conteudoTxt = {
             texth1: "E -BOOK" ,
@@ -14,19 +16,19 @@ export default class App extends React.Component{
         const conteudoForm = {
             textfh1: "Conheça o outro lado do debate" ,
             textfh2: "Preencha o formulário e receba o livro!",
-            src:"/img/logo-cd-p.png",
+            src: img,
             value:"BAIXAR O E -BOOK"
         }
-        return( 
+        return(
             <div className="main">
                 <Section1  {...conteudoTxt} {...conteudoForm}/>
                 <Section2/>
                 <Section3/>
                 <Footer/>
             </div>
-            
 
-            
+
+
         )
     }
 }
