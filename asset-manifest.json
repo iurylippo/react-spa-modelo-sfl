@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ManeMaria/react-spa-modelo-sfl/static/css/main.55a7e2c8.chunk.css",
+    "main.js": "/ManeMaria/react-spa-modelo-sfl/static/js/main.8dfc0de5.chunk.js",
+    "main.js.map": "/ManeMaria/react-spa-modelo-sfl/static/js/main.8dfc0de5.chunk.js.map",
+    "runtime-main.js": "/ManeMaria/react-spa-modelo-sfl/static/js/runtime-main.1a8024ec.js",
+    "runtime-main.js.map": "/ManeMaria/react-spa-modelo-sfl/static/js/runtime-main.1a8024ec.js.map",
+    "static/js/2.2d50dabc.chunk.js": "/ManeMaria/react-spa-modelo-sfl/static/js/2.2d50dabc.chunk.js",
+    "static/js/2.2d50dabc.chunk.js.map": "/ManeMaria/react-spa-modelo-sfl/static/js/2.2d50dabc.chunk.js.map",
+    "index.html": "/ManeMaria/react-spa-modelo-sfl/index.html",
+    "precache-manifest.6766f99e8d74a5800a3aeade53a5c685.js": "/ManeMaria/react-spa-modelo-sfl/precache-manifest.6766f99e8d74a5800a3aeade53a5c685.js",
+    "service-worker.js": "/ManeMaria/react-spa-modelo-sfl/service-worker.js",
+    "static/css/main.55a7e2c8.chunk.css.map": "/ManeMaria/react-spa-modelo-sfl/static/css/main.55a7e2c8.chunk.css.map",
+    "static/js/2.2d50dabc.chunk.js.LICENSE.txt": "/ManeMaria/react-spa-modelo-sfl/static/js/2.2d50dabc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a8024ec.js",
+    "static/js/2.2d50dabc.chunk.js",
+    "static/css/main.55a7e2c8.chunk.css",
+    "static/js/main.8dfc0de5.chunk.js"
+  ]
+}
